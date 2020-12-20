@@ -1,0 +1,9 @@
+﻿  decrypt.c
+  encrypt.c
+  functions.c
+  iterative_attack.c
+  Main.c
+C:\Users\ASUS\source\repos\Door_cipher\Main.c(52,7): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\ASUS\source\repos\Door_cipher\functions.c(16): warning C4715: 'charToInt': not all control paths return a value
+  Door_cipher.vcxproj -> C:\Users\ASUS\source\repos\Door_cipher\Debug\Door_cipher.exe
